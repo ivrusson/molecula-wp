@@ -1,0 +1,6 @@
+mysql/
+wordpress/
+config/
+node_modules/
+vendor/
+*.code-workspace

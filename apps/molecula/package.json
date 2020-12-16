@@ -1,0 +1,8 @@
+{
+  "name": "molecula",
+  "scripts": {
+    "start": "umi dev",
+    "build": "COMPRESS=none umi build",
+    "test": "umi test"
+  }
+}
